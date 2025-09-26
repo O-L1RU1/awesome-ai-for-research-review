@@ -1,1 +1,1 @@
-# awesome-ai-for-research-review
+# awesome-ai-for-research&review
